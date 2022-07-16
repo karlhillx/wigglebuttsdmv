@@ -19,7 +19,7 @@
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen sm:items-center py-4 sm:pt-0">
-            <a href="contact"><img src="images/dog-walking.png" alt="Dog Walking"></a>
+            <img src="images/dog-walking.png" alt="Dog Walking">
         </div>
     </body>
 </html>
