@@ -15,10 +15,11 @@
                 background-color: #9fcae0;
             }
         </style>
+        @vite('resources/css/app.css')
     </head>
     <body class="antialiased">
         <div class="relative flex items-top justify-center min-h-screen sm:items-center py-4 sm:pt-0">
-            <img src="images/dog-walking.png" alt="Dog Walking">
+            <a href="contact"><img src="images/dog-walking.png" alt="Dog Walking"></a>
         </div>
     </body>
 </html>
